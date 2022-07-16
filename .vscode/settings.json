@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.a68": "Algol68g",
+    "*.a60": "algol60",
+    "iostream": "cpp",
+    "bitset": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp"
+  }
+}
