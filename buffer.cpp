@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
   Buffer bfr ({ 30, 10 }, { 2, 3 }, 0x4f);
   string res = "";
 
-  bfr << "What's your name? ";
+  bfr << "What's y" << "our name? ";
 
   gotoxy(0, 20);
   return 0;
